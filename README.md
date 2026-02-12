@@ -20,5 +20,5 @@ npm install
 npm run dev
 ```
 
-Then open live in your browser - ```ai-todo-blue-zeta.vercel.app```.
+**Live Demo:** [Click here to view the app](ai-todo-blue-zeta.vercel.app)
 
