@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 antialiased;
+}
+
+.glass-panel {
+  @apply bg-slate-900/70 backdrop-blur-xl border border-slate-700/70;
+}
+
+.todo-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.todo-scrollbar::-webkit-scrollbar-track {
+  @apply bg-slate-900;
+}
+
+.todo-scrollbar::-webkit-scrollbar-thumb {
+  @apply bg-slate-700 rounded-full;
+}
