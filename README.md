@@ -20,5 +20,5 @@ npm install
 npm run dev
 ```
 
-Then open the printed local URL (usually `http://localhost:5173`) in your browser.
+Then open live in your browser - ai-todo-blue-zeta.vercel.app.
 
