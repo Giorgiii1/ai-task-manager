@@ -20,5 +20,5 @@ npm install
 npm run dev
 ```
 
-**Live Demo:** [Click here to view the app]([ai-todo-blue-zeta.vercel.app](https://ai-todo-blue-zeta.vercel.app))
+🚀 **Live Demo:** [Click here to view the app](https://ai-todo-blue-zeta.vercel.app)
 
